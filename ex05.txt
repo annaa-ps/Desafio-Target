@@ -1,0 +1,13 @@
+Para resolver o problema de identificar qual interruptor controla qual lâmpada, a estratégia que eu usaria seria a seguinte:
+-> Na sala dos interruptores:
+- Primeiro, eu ligaria o primeiro interruptor e deixaria ele ligado por uns 5 minutos, o suficiente para que a lâmpada correspondente esquentasse.
+- Depois, desligaria o primeiro interruptor.
+- Em seguida, ligaria o segundo interruptor e deixaria ele ligado.
+- O terceiro interruptor ficaria desligado o tempo todo.
+- Primeira ida até a sala das lâmpadas:
+
+-> Ao chegar lá, a lâmpada que estiver acesa vai estar conectada ao segundo interruptor (que ficou ligado o tempo todo).
+- Das lâmpadas apagadas, eu tocaria nelas. A que estiver quente estará conectada ao primeiro interruptor (porque ficou ligada por um tempo e depois foi desligada).
+- E, por fim, a lâmpada que estiver fria estará conectada ao terceiro interruptor, que nunca foi ligado.
+
+-> Assim, consigo descobrir qual interruptor controla cada lâmpada usando apenas uma ida à sala das lâmpadas.
